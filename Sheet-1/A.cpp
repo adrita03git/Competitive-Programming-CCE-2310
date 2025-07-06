@@ -1,4 +1,4 @@
-//Problem Name: Sum Digits
+//Problem Name: Say Hello With C++
 //Course Title: Competitive Programming Sessional
 //Course Code: CCE-2310
 //Course Teacher Name: Mirza Raquib
