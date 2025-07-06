@@ -1,4 +1,4 @@
-//Problem Name: Fixed Passwords
+//Problem Name: Fixed Password
 //Course Title: Competitive Programming Sessional
 //Course Code: CCE-2310
 //Course Teacher Name: Mirza Raquib
