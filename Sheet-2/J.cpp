@@ -1,3 +1,7 @@
+//Problem Name: Primes from 1 to n
+//Course Title: Competitive Programming Sessional
+//Course Code: CCE-2310
+//Course Teacher Name: Mirza Raquib
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -24,6 +28,6 @@ int main()
     }
     for(i=2; i<=n; i++)
     {
-        if(a[i])cout<<i<<" ";
+        if(a[i])cout<<i<<"Â ";
     }
 }
